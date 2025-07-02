@@ -39,11 +39,7 @@ Displays total shapes, type-wise count, total area and percentage breakdown
 
 ---
 
-## 📄 Resume
 
-[📄 View My Resume (PDF)](https://github.com/Sajnin981/shape-area-management/blob/main/cv.pdf)
-
----
 
 ## 👩‍💻 Author
 
